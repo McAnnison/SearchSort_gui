@@ -16,6 +16,7 @@ public class SearchSortGUI extends JFrame implements ActionListener {
             "Radix Sort", "Heap Sort", "Nearly Sorted", "Counting Sort"
     };
 
+
     public SearchSortGUI() {
         setTitle("Search & Sort Analyzer");
         setSize(800, 700);
